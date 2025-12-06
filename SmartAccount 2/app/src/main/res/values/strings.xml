@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SmartAccount</string>
+    <string name="splash_title">Smart Account</string>
+    <string name="home_title">Smart Account Dashboard</string>
+    <string name="total_income_label">Total income:</string>
+    <string name="total_expense_label">Total expense:</string>
+    <string name="balance_cad_label">Balance (CAD):</string>
+    <string name="reports_title">Reports</string>
+    <string name="currency_info_title">Currency Info</string>
+    <string name="currency_error">Unable to load exchange rate.</string>
+    <string name="currency_rate_pattern">1 CAD ≈ %1$.4f USD</string>
+    <string name="balance_usd_pattern">Balance in USD: %1$.2f</string>
+    <string name="transactions_title">Transactions</string>
+    <string name="no_transactions">No transactions yet.</string>
+    <string name="add_transaction_title">Add Transaction</string>
+    <string name="amount_label">Amount</string>
+    <string name="income_chip">Income</string>
+    <string name="expense_chip">Expense</string>
+    <string name="category_label">Category</string>
+    <string name="notes_label">Notes</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="save_button">Save</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_reports">Reports</string>
+    <string name="reports_pie_title">Income vs Expense</string>
+</resources>
